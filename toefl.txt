@@ -1,7 +1,10 @@
 toefl is coming
+<<<<<<< HEAD
 
 toefl is not hard as you manage the method
 
 hello toefl
  
 it takes you some time to understand the pattern
+
+i love test
